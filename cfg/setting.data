@@ -1,0 +1,6 @@
+classes= 1
+train  = ../cfg/train.txt
+valid = ../cfg/valid.txt
+names = ../cfg/setting.names
+backup = ../cfg/weights/
+
